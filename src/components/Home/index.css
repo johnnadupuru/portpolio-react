@@ -1,0 +1,53 @@
+.home-name {
+  font-size: 45px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 800;
+}
+.home-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home {
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.name-card {
+  text-align: center;
+}
+.name-desc {
+  color: green;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.pre-name {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.image {
+  height: 300px;
+  width: 300px;
+  border-radius: 50px;
+}
+
+.download-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  height: 38px;
+  padding: 10px;
+  background-color: forestgreen;
+  border-radius: 10px;
+  border: none;
+  color: #ffffff;
+}

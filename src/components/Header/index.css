@@ -1,0 +1,29 @@
+.navbar {
+  background-color: rgb(44, 44, 49);
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 50px;
+}
+.name {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 500;
+}
+.description {
+  display: flex;
+  list-style-type: none;
+}
+.nav-link {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.nav-link:hover {
+  cursor: pointer;
+  color: orange;
+}

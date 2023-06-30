@@ -1,0 +1,16 @@
+.resume-section {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  height: 38px;
+  padding: 10px;
+  background-color: forestgreen;
+  border-radius: 10px;
+  border: none;
+  color: #ffffff;
+}

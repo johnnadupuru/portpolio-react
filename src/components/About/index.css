@@ -1,0 +1,46 @@
+.about-page {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+}
+.education-card {
+  margin: 20px;
+  box-shadow: bisque;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  background-color: black;
+  width: 500px;
+}
+.heading {
+  background-color: #161f77;
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  display: flex;
+}
+.details {
+  padding: 10px;
+}
+.education {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.description {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.property {
+  color: yellow;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 400px;
+}
+.logo {
+  height: 50px;
+  border: 10px;
+  margin-right: 20px;
+  border-radius: 20px;
+}

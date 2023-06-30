@@ -1,0 +1,75 @@
+.heading {
+  background-color: #161f77;
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  display: flex;
+}
+.address-card {
+  margin: 20px;
+  box-shadow: bisque;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  background-color: black;
+  width: 500px;
+}
+.location {
+  color: #ffffff;
+}
+.details {
+  padding: 20px;
+}
+.description {
+  color: #ffffff;
+  font-size: 20px;
+}
+.card {
+  display: flex;
+}
+.address-details {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.address {
+  display: flex;
+  justify-content: center;
+}
+.font-card {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.font {
+  color: #ffffff;
+  font-size: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.heading-name {
+  color: #ffffff;
+}
+.follow {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+.follow-section {
+  background-color: rgb(84, 141, 141);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.contact-me-card {
+  background-color: #161f77;
+  width: 250px;
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.email {
+  color: #ffffff;
+  font-size: 15px;
+}
