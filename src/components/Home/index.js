@@ -5,7 +5,7 @@ const Home = () => (
   <div className="home-container">
     <div className="home">
       <div className="name-card">
-        <h1 className="home-name">N.JANARDHANA</h1>
+        <h1 className="home-name">I am JANARDHANA</h1>
         <p className="name-desc">
           <span className="pre-name">I am </span> Full Stack Developer <br />
           <span className="pre-name">

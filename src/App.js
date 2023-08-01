@@ -18,7 +18,8 @@ const App = () => (
         <Route exact path="/skills" component={Skills} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/resume" component={Resume} />
-        <Route component={NotFound} />
+        <Route path="not-found" component={NotFound} />
+        <Route component={NotFound}/>
       </Switch>
     </BrowserRouter>
   </div>
