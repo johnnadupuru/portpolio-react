@@ -31,7 +31,7 @@ const Contact = () => (
               <FontAwesomeIcon icon={faLocationDot} />
             </div>
             <p className="address-details">
-              Bhupalapuram Village, Gurla Mandal, Vizianagaram Dist,
+              Bhupalapuram Village, Gurla Mandal, Vizianagaram Dist,Andhra Prdesh
               Pincode:535280
             </p>
           </div>
